@@ -1,0 +1,12 @@
+Requst Method
+GET & POST
+
+Ada beberapa materi yang harus dipelajari sebelumnya :
+1. Superglobals
+adalah sebuah variabel yang dimiliki oleh PHP, variabel nya variabel special. sebelum memahami ni kita harus memahami variable scope
+
+Apa itu Variable Scope?
+Variabel yang dibuat didalam function, dia hanya berlaku didalam function tersebut
+
+Apa itu variabel global?
+variable global adalah variable yang sudah dimiliki oleh PHP dan bisa digunakan dimanapun dan kapanpun
